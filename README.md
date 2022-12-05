@@ -73,8 +73,10 @@ After you're finished please remove all the comments and instructions!
 
 
 
-- **Responsive**
-- **Dynamic Speakers Section**
+- **Uses local storage**
+- **Based on latest ES6 syntax**
+- **Consists use of ES6 modules and it's methods**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
