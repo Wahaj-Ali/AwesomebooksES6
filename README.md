@@ -52,7 +52,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Awesome Books ES6 <a name="about-project"></a>
 
 
-**Awesome Books ES6** is a a website to add your favourite awesome books. It stores the books and displays them in a list. It uses locla storage to store the information of books. This project is made up using ES6 syntax. 
+**Awesome Books ES6** is a a website to add your favourite awesome books. It stores the books and displays them in a list. It uses local storage to store the information of books. This project is made up using ES6 syntax. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
